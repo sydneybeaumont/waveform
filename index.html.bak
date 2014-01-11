@@ -1,0 +1,150 @@
+
+<!DOCTYPE html>
+
+<html class="html">
+
+ <!-- BC_OBNW -->
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<title>Home</title>
+<link href="/StyleSheets/ModuleStyleSheets.css" type="text/css" rel="StyleSheet" />
+<script type="text/javascript">var jslang='EN';</script>
+<link rel="stylesheet" type="text/css" href="/css/site_global.css?417434784" />
+<link rel="stylesheet" type="text/css" href="/css/index.css?314553849" id="pagesheet" />
+<script type="text/javascript">
+   document.documentElement.className += ' js';
+var __adobewebfontsappname__ = "muse";
+</script>
+<script type="text/javascript">
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/source-sans-pro:n2,n3,i3:all.js" type="text/javascript">\x3C/script>');
+</script>
+<meta name="generator" content="7.1.329.244" />
+<meta name="image-hide-from-external-url" content="true" />
+<meta name="image-hide-location" content="true" />
+<!-- CSS -->
+<!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="/css/iefonts_index.css?444810241"/>
+  <![endif]-->
+<!-- Other scripts -->
+<!-- JS includes -->
+</head>
+<body>
+
+ 
+
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="clearfix colelem" id="pu332"><!-- group -->
+     <div class="clip_frame grpelem" id="u332"><!-- image -->
+      <img class="block" id="u332_img" src="/images/kaplan-gs-mk2-src-power-cord-weave-kap3655.jpg" alt="" width="1000" height="425" />
+     </div>
+     <div class="clip_frame grpelem" id="u324"><!-- image -->
+      <img class="block" id="u324_img" src="/images/homepage-logo.gif" alt="" width="429" height="214" />
+     </div>
+     <div class="grpelem" id="u387"><!-- simple frame --></div>
+    </div>
+    <div class="clearfix colelem" id="u481-4"><!-- content -->
+     <p>Introduction</p>
+    </div>
+    <a class="anchor_item colelem" id="about"></a>
+    <div class="museBGSize rgba-background clearfix colelem" id="u449"><!-- group -->
+     <div class="clearfix grpelem" id="u480-24"><!-- content -->
+      <p>The new line of Waveform Fidelity cables was created for one purpose only – the faithful reproduction of music. Each of our cables is meticulously designed to offer our customers a lifetime of musical enjoyment, unrivaled at the price point and arguably better than many of the statement audiophile cables today costing in the tens of thousands of dollars.</p>
+      <p>&nbsp;</p>
+      <p>You will notice we have foregone the usual &quot;audio jewelry&quot; connectors, fancy metal and wood cable covers, luxury packaging and expensive marketing campaigns that add nothing to your enjoyment and have contributed to the unrealistic prices of many of today's top cables.</p>
+      <p>&nbsp;</p>
+      <p>Instead we have put 100% of our effort into five years of painstaking development to achieve a sound that defies the usual audiophile descriptions and simply draws you deeper into the music. Waveform Fidelity cables represent a voice where musical images are rendered completely absent of electronic artifacts, conveying the full weight and body of instruments and voices occurring as they occur naturally in time and space.</p>
+      <p>&nbsp;</p>
+      <p>Lest you think we are new to this game, our merry band of passionate music lovers and artisans has been providing music lovers from around the globe the highest quality cables under the Kaplan Cable brand name for the past four years. We are now proud to introduce our best effort yet, the new GS3 series of audio cable from Waveform Fidelity.</p>
+      <p>&nbsp;</p>
+      <p>Listen and be Gob–Smacked!</p>
+      <p>&nbsp;</p>
+      <p>Sincerely,</p>
+      <p>&nbsp;</p>
+      <p>Paul Kaplan</p>
+      <p>Chief Designer</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pcontact"><!-- group -->
+     <a class="anchor_item grpelem" id="contact"></a>
+     <div class="clearfix grpelem" id="u426-4"><!-- content -->
+      <p>Contact</p>
+     </div>
+    </div>
+    <form class="form-grp clearfix colelem" id="widgetu389" method="post" enctype="multipart/form-data" action="/FormProcessv2.aspx?WebFormID=85930&amp;JSON=1" /><!-- none box -->
+     <div class="fld-grp clearfix grpelem" id="widgetu391" data-required="true"><!-- none box -->
+      <label class="fld-label actAsDiv clearfix grpelem" id="u395-4" for="widgetu391_input"><!-- content -->
+       <span class="actAsPara">Name:</span>
+      </label>
+      <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u393-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu391_input" name="FullName" tabindex="1" /><label class="wrapped-input fld-prompt" id="widgetu391_prompt" for="widgetu391_input"><span class="actAsPara">Enter Name</span></label></span>
+     </div>
+     <div class="fld-grp clearfix grpelem" id="widgetu396" data-required="true" data-type="email"><!-- none box -->
+      <label class="fld-label actAsDiv clearfix grpelem" id="u399-4" for="widgetu396_input"><!-- content -->
+       <span class="actAsPara">Email:</span>
+      </label>
+      <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u400-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu396_input" name="EmailAddress" tabindex="2" /><label class="wrapped-input fld-prompt" id="widgetu396_prompt" for="widgetu396_input"><span class="actAsPara">Enter Email</span></label></span>
+     </div>
+     <div class="clearfix grpelem" id="u390-4"><!-- content -->
+      <p>Submitting Form...</p>
+     </div>
+     <div class="clearfix grpelem" id="u422-4"><!-- content -->
+      <p>The server encountered an error.</p>
+     </div>
+     <div class="clearfix grpelem" id="u421-4"><!-- content -->
+      <p>Form received.</p>
+     </div>
+     <input class="submit-btn NoWrap grpelem" id="u420-17" type="submit" value="" tabindex="4" /><!-- state-based BG images -->
+     <div class="fld-grp clearfix grpelem" id="widgetu415" data-required="false"><!-- none box -->
+      <label class="fld-label actAsDiv clearfix grpelem" id="u419-4" for="widgetu415_input"><!-- content -->
+       <span class="actAsPara">Message:</span>
+      </label>
+      <span class="fld-textarea actAsDiv clearfix grpelem" id="u418-4"><!-- content --><textarea class="wrapped-input" id="widgetu415_input" name="CAT_Custom_363612" tabindex="3"></textarea><label class="wrapped-input fld-prompt" id="widgetu415_prompt" for="widgetu415_input"><span class="actAsPara">Enter Your Message</span></label></span>
+     </div>
+    </form>
+    <div class="clearfix colelem" id="u478-15"><!-- content -->
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p id="u478-5">Waveform Fidelity</p>
+     <p>&nbsp;</p>
+     <p id="u478-8">933 President Street</p>
+     <p id="u478-10">Brooklyn, New York 11215</p>
+     <p id="u478-11">&nbsp;</p>
+     <p id="u478-13">+1 718.789.8224</p>
+    </div>
+    <div class="verticalspacer"></div>
+   </div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="/images/u420-17-r.png" alt="" />
+   <img class="preload" src="/images/u420-17-m.png" alt="" />
+   <img class="preload" src="/images/u420-17-fs.png" alt="" />
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn1.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="/scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="/scripts/museutils.js?3963931681" type="text/javascript"></script>
+  <script src="/scripts/jquery.musepolyfill.bgsize.js?3899542795" type="text/javascript"></script>
+  <script src="/scripts/webpro.js?33264525" type="text/javascript"></script>
+  <script src="/scripts/jquery.watch.js?4199601726" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body*/
+Muse.Utils.prepHyperlinks(true);/* body*/
+Muse.Utils.initWidget('#widgetu389', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu389*/
+Muse.Utils.fullPage('#page');/* 100% height page*/
+Muse.Utils.showWidgetsWhenReady();/* body*/
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body*/
+} catch(e) { Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
+   
+
+
+
+</body>
+</html>
