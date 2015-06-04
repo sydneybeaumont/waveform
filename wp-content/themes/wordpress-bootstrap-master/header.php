@@ -51,7 +51,7 @@
 								<a class="brand" id="logo" title="<?php echo get_bloginfo('description'); ?>" href="<?php 
 
 //echo home_url(); 
-echo "/home";
+echo "/news";
 ?>">
 									<?php if(of_get_option('branding_logo','')!='') { ?>
 										<img src="<?php echo of_get_option('branding_logo'); ?>" alt="<?php echo get_bloginfo('description'); ?>">

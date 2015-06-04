@@ -17,6 +17,10 @@ background-image:none !important;
 }
 
 
+.navbar .brand{
+padding:4px 20px 3px !important;
+}
+
 html, body, .container-fluid{
 height:100%;
 }

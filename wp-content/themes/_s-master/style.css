@@ -1746,26 +1746,26 @@ body
 
 a:link
 {
-	color: #0000FF;
-	text-decoration: underline;
+	color: #black;
+	text-decoration: none;
 }
 
 a:visited
 {
-	color: #800080;
-	text-decoration: underline;
+	color: #black;
+	text-decoration: none;
 }
 
 a:hover
 {
-	color: #0000FF;
-	text-decoration: underline;
+	color: #black;
+	text-decoration: none;
 }
 
 a:active
 {
-	color: #EE0000;
-	text-decoration: underline;
+	color: #black;
+	text-decoration: none;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
@@ -2078,7 +2078,7 @@ css/index.css?314553849 ----------------------------------------------- */
 {
 	z-index: 1;
 	width: 1000px;
-	min-height: 1539px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
@@ -2128,7 +2128,7 @@ css/index.css?314553849 ----------------------------------------------- */
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 423px;
+	margin-top: 456px;
 }
 
 #u481-4
